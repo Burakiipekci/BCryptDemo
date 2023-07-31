@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fTgjCrDDFSN1QznBA8dLNr1WKESLTdPnDWfto4gtKIYMsXf10kCjnrCEuE+zmNc6b3epK/YEkBM2KCzl2lC1fA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\burak.ipekci\\Documents\\GitHub\\E-commerce_Basic\\BCryptDemo\\BCryptDemo\\BCryptDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\burak.ipekci\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
